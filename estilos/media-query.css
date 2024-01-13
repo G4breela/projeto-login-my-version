@@ -1,3 +1,31 @@
 @charset "UTF-8";
 
 /*Versão para grandes telas*/
+
+@media screen and (min-width: 768px) {
+
+    main{
+        background-image: linear-gradient(to bottom, #DF899B ,#A03F4F);
+    }
+
+    #login{
+        width: 700px;
+        height: 300px;
+    }
+
+    #imagem{
+        width: 40%;
+        background-color: #595F78;
+        border-radius: 25px;
+        margin-left: -50px;
+    }
+
+    #formulario{
+        height: 90%;
+    }
+
+    h1{
+        font-size: 25px;
+    }
+    
+}   
