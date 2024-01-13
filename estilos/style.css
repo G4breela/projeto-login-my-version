@@ -130,6 +130,7 @@ p{
     border: none;
     outline: none;
     border-bottom: var(--border-input);
+    color: var(--primary-color);
 }
 
 .buttons{
