@@ -27,5 +27,15 @@
     h1{
         font-size: 25px;
     }
+
+    .buttons > a > span{
+        padding-top: 5px;
+        text-decoration: none;
+    }
+
+    .buttons > a > span:hover{
+        text-decoration: underline;
+    }
+
     
 }   
