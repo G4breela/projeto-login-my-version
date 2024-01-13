@@ -146,7 +146,8 @@ p{
     height: 30px;
     border:none;
     border-radius: 2px;
-    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-bottom: 10px;
     color: var(--backgroundcolor);
     font-weight: 600;
     font-size: 14px;
@@ -164,12 +165,18 @@ p{
     align-items: center;
     text-decoration: none;
     outline: none;
+    margin-top: 20px;
 }
 
 .buttons > a > span{
     margin-left: 10px;
+    text-decoration: underline;
+    color: var(--text-and-button-color);
 }
 
 .buttons > a > i {
+    padding-top: 5px;
    margin-left: 5px;
+   color: var(--text-and-button-color);
+   font-size: 20px;
 }
