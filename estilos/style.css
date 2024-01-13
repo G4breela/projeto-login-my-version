@@ -93,6 +93,7 @@ p{
     align-items: center;
     width: 200px;
     height: 160px;
+    padding-top: 10px;
 }
 
 
@@ -205,7 +206,8 @@ p{
     }
 
     #forms{
-        margin-bottom: -2px;
+        padding: 0;
+        height: 150px;
     }
 
     h1{
@@ -220,11 +222,22 @@ p{
     .user{
        margin: 0;
        padding: 0px; 
+       margin-bottom: 13px;
+    }
+
+    .data{
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        border-bottom: 2px solid #595F78;
     }
 
     .user-buttons{
         margin: 5px 5px;
         padding: 0;
+    }
+
+    .buttons{
+        margin: 0;
     }
 
     .buttons > .user-buttons {
@@ -234,7 +247,8 @@ p{
     }
 
     a#button{
-        margin-top: 5px;
+        margin-top: 10px;
         padding: 0;
+        font-size: 13px;
     }
 }
