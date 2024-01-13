@@ -83,6 +83,7 @@ p{
     padding-bottom: 5px;
     color: var(--text-and-button-color);
     font-size: 13px;
+    margin-bottom: 8px;
 }
 
 #forms{
