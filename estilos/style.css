@@ -55,7 +55,6 @@ main{
 
 #imagem{
     width: 200px;
-    padding-bottom: 10px;
 }
 
 #formulario{
@@ -65,7 +64,6 @@ main{
     justify-content: center;
     width: 250px;
     height: 300px;
-    padding-top: 10px;
     background-color: var(--backgroundcolor);
     margin-bottom: 20px;
 }
