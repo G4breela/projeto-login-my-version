@@ -66,6 +66,7 @@ main{
     height: 300px;
     background-color: var(--backgroundcolor);
     margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 h1{
