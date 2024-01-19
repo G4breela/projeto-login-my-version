@@ -16,6 +16,6 @@
     <li>CSS3</li>
   </ul>
 
-  <h2> Projeto em Desenvolvimento ⚠️ </h2>
+  <h2> Projeto Finalizado ✅ </h2>
   
- <p>Link do Projeto: <a href="#"></a></p>
+ <p>Link do Projeto: <a href="https://g4breela.github.io/projeto-login-my-version/">https://g4breela.github.io/projeto-login-my-version/</a></p>
